@@ -1,0 +1,17 @@
+01 
+npm init -y
+
+02 
+npm i -D typescript
+
+03
+npm i -D @types/node
+
+04
+npm tsc --init
+
+05
+npm i -D ts-node nodemon
+
+06
+npm i -D rimraf
